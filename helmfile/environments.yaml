@@ -1,0 +1,7 @@
+environments:
+  default:
+    values:
+    - default-values.yaml
+  sops-poc:
+    values:
+    - example-environment-values.yaml
